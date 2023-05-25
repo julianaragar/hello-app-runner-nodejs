@@ -3,7 +3,7 @@
 
 # You can use "node:12" or your custom image as a base image of course.
 # We chose this to avoid Docker Hub's throttling during the tutorial steps.
-FROM public.ecr.aws/amazonlinux/amazonlinux:latest
+FROM public.ecr.aws/amazonlinux/amazonlinux:2
 
 # You can remove this "RUN" instruction if you use a base image with
 # Node.js 12 installation.
