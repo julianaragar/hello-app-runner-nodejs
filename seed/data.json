@@ -9,7 +9,7 @@
                     "Done": {
                         "S": "y"
                     },
-                    "ItemId": {
+                    "itemID": {
                         "S": "a90c9a5d-3be6-4429-b76d-b3ec8932d96b"
                     },
                     "Detail": {
@@ -27,7 +27,7 @@
                     "Done": {
                         "S": "n"
                     },
-                    "ItemId": {
+                    "itemID": {
                         "S": "acb87c27-4232-45a7-9cb0-6742af21e051"
                     },
                     "Detail": {
@@ -45,7 +45,7 @@
                     "Done": {
                         "S": "n"
                     },
-                    "ItemId": {
+                    "itemID": {
                         "S": "a53c25c3-6d75-41f2-9453-a6cc22ccdae7"
                     },
                     "Detail": {
@@ -63,7 +63,7 @@
                     "Done": {
                         "S": "n"
                     },
-                    "ItemId": {
+                    "itemID": {
                         "S": "28f3aa45-7437-4b2a-abd9-863321161e28"
                     },
                     "Detail": {
