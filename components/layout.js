@@ -15,8 +15,8 @@ export default function Layout({ children, home }) {
       <Head>
         <link
           rel="icon"
-          //href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚀</text></svg>"
-          href="data:image/svg+xml,<svg xmlns=%22https://www.ifema.es/img/xl/aws-logo/img-hb-aws-v2.jpg viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚀</text></svg>"
+          href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚀</text></svg>"
+          //href="data:image/svg+xml,<svg xmlns=%22https://www.ifema.es/img/xl/aws-logo/img-hb-aws-v2.jpg viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚀</text></svg>"
         ></link>
         <meta name="description" content="Hello, App Runner and Copilot Presented by Edu and Julian! 👋" />
         <title>{siteTitle}</title>
