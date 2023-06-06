@@ -22,6 +22,6 @@ COPY . .
 RUN npm run build
 EXPOSE 80
 
-ADD https://raw.githubusercontent.com/aws-containers/hello-app-runner/2356069859f2ac2e4c0300b510911a7a48d75337/banner_base_light.png ./public/images/
+ADD https://i.ibb.co/wMFK73J/Screenshot-2023-06-06-at-17-15-15.png ./public/images/
 
 CMD [ "npm", "start" ]
